@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/zbb3"
+
+    >
+
+    <ImageButton
+        android:id="@+id/model1"
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="320dp"
+        android:layout_alignParentRight="true"
+        android:scaleType="fitXY"
+        android:background="#054F72"
+        android:src="@drawable/zee1"></ImageButton>
+
+    <ImageButton
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:scaleType="fitXY"
+        android:background="#054F72"
+        android:id="@+id/model2"
+        android:layout_below="@id/model1"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/zbb312"
+        ></ImageButton>
+
+
+    <ImageButton
+        android:id="@+id/model3"
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:scaleType="fitXY"
+        android:background="#054F72"
+        android:src="@drawable/zee"
+       android:layout_marginTop="200dp"
+        ></ImageButton>
+    
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/link"
+        android:scaleType="fitXY"
+        android:background="#054F72"
+        android:src="@drawable/ze1"
+        android:layout_marginTop="150dp"
+        android:layout_centerHorizontal="true"
+        ></ImageButton>
+
+
+</RelativeLayout>
