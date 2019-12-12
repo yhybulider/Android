@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name"
+        >YueFenXiaLa
+    </string>
+    <string name="month">
+        <item一月/>
+        <item二月/>
+        <item三月/>
+        <item四月/>
+        <item五月/>
+        <item六月/>
+        <item七月/>
+        <item八月/>
+        <item九月/>
+        <item十月/>
+        <item十一月/>
+        <item十二月/>
+
+
+    </string>
+
+
+
+
+    />
+
+</resources>

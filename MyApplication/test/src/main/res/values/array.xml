@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="class_array">
+    <item>计科1701</item>
+    <item>计科1702</item>
+    <item>软件1701</item>
+    <item>网络1701</item>
+    </string-array>>
+</resources>
